@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+li {
+  margin-bottom: 15px;
+  background: #f0f0f0;
+  padding: 10px;
+  border-radius: 6px;
+}
+.App2 {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+li {
+  margin-bottom: 15px;
+  background: #55e781;
+  padding: 10px;
+  border-radius: 6px;
+}
